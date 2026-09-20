@@ -1,1 +1,3 @@
+py-polymarket-clob-client>=0.1.0
+
 
